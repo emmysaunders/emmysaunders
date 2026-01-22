@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=emmysaunders&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmysaunders&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emmysaunders&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=emmysaunders&icon=7&color=5)](https://visitcount.itsvg.in)
 
